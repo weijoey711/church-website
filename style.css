@@ -1,0 +1,35 @@
+/* Light Theme Styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f4f4f4;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+section {
+  padding: 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+footer {
+  background-color: #f4f4f4;
+  text-align: center;
+  padding: 10px;
+}
