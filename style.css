@@ -1,20 +1,5 @@
 /* Light Theme Styling */
 body {
-/* Light Theme Styling */
-body {
-  font-family: Arial, sans-serif;
-  background-color: #ffffff;
-  color: #333;
-  margin: 0;
-  padding: 0;
-}
-
-header {
-  background-color: #f4f4f4;
-  padding: 20px;
-  text-align: center;
-}
-
   font-family: Arial, sans-serif;
   background-color: #ffffff;
   color: #333;
@@ -36,6 +21,12 @@ nav ul {
 nav ul li {
   display: inline;
   margin: 0 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
 }
 
 section {
